@@ -1,0 +1,14 @@
+C:\Users\WILLIANS\Documents\Proyectos\Tareas\bin\Debug\net10.0\Tareas.exe
+C:\Users\WILLIANS\Documents\Proyectos\Tareas\bin\Debug\net10.0\Tareas.deps.json
+C:\Users\WILLIANS\Documents\Proyectos\Tareas\bin\Debug\net10.0\Tareas.runtimeconfig.json
+C:\Users\WILLIANS\Documents\Proyectos\Tareas\bin\Debug\net10.0\Tareas.dll
+C:\Users\WILLIANS\Documents\Proyectos\Tareas\bin\Debug\net10.0\Tareas.pdb
+C:\Users\WILLIANS\Documents\Proyectos\Tareas\obj\Debug\net10.0\Tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WILLIANS\Documents\Proyectos\Tareas\obj\Debug\net10.0\Tareas.AssemblyInfoInputs.cache
+C:\Users\WILLIANS\Documents\Proyectos\Tareas\obj\Debug\net10.0\Tareas.AssemblyInfo.cs
+C:\Users\WILLIANS\Documents\Proyectos\Tareas\obj\Debug\net10.0\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\WILLIANS\Documents\Proyectos\Tareas\obj\Debug\net10.0\Tareas.dll
+C:\Users\WILLIANS\Documents\Proyectos\Tareas\obj\Debug\net10.0\refint\Tareas.dll
+C:\Users\WILLIANS\Documents\Proyectos\Tareas\obj\Debug\net10.0\Tareas.pdb
+C:\Users\WILLIANS\Documents\Proyectos\Tareas\obj\Debug\net10.0\Tareas.genruntimeconfig.cache
+C:\Users\WILLIANS\Documents\Proyectos\Tareas\obj\Debug\net10.0\ref\Tareas.dll
