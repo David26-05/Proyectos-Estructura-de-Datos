@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PracticoExperimental3/1.0.0": {
+        "runtime": {
+          "PracticoExperimental3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PracticoExperimental3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
